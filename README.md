@@ -2,7 +2,7 @@
 - 📍 I am located in Gaborone, Botswana 
 - 👀 I love vlogging, writing poems and working out at the gym 
 - 🌱 I’m currently Spanish and on the coding side, I hope to enrol into a Python program soon or C# as I am mostly interested in Front-End Development.
-- 💞️ I’m looking for my first Web Development role, just something to introduce me to the coding world officially.
+- 💞️ I’m looking for my first Web Development role.
 - 📫 You can reach me on LinkedIn @Tsaone W Bejile
 
 
