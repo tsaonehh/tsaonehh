@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tsaone Bejile, username @tsaonehh
+- 👋 Hi, I’m Tsaone Bejile.
 - 📍 Located in Gaborone, Botswana 
 - 👀 I love vlogging, writing poems and working out at the gym.
 - 🌱 I’m currently learning Spanish and on the coding side, I hope to enrol into a Python program soon or C# as I am mostly interested in Front-End Development but I am always open to learning new things.
