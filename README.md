@@ -3,8 +3,8 @@
 - 👀 Besides coding, I love vlogging, writing poems and working out at the gym.
 - 🌱 I’m currently learning Spanish and on the coding side, I hope to enrol into a Python program soon or C# as I am mostly interested in Front-End Development but I am always open to learning and not limiting myself.
 - 💞️ I’m looking for my first Web Development role to expand my coding skills.
-- 📫 You can reach me on LinkedIn @Tsaone W Bejile or you can email me at tsaoneb3@gmail.com
-
+- 📫 You can reach me on LinkedIn @Tsaone W Bejile or you can also email me at tsaoneb3@gmail.com
+- 🪽 Let's connect! 
 
 ---
 
