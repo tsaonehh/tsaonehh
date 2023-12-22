@@ -1,4 +1,4 @@
-- 👋 Hi, I am Tsaone Bejile.
+- 👋 Hi, I am Tsaone Bejile, a 20-something developer.
 - 📍 Located in Gaborone, Botswana.
 - 👀 Besides coding, I love vlogging, writing poems and working out at the gym.
 - 🌱 I’m currently learning Spanish and on the coding side, I hope to enrol into a Python program soon or C# as I am mostly interested in Front-End Development but I am always open to learning and not limiting myself.
