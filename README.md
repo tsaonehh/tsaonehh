@@ -8,9 +8,6 @@
 
 ---
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tsaonehh)](https://git.io/streak-stats)
 
 <!---
 tsaonehh/tsaonehh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
